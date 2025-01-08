@@ -15,3 +15,5 @@ Este proyecto es una aplicación Java que utiliza JDBC para conectarse a una bas
     Compatible con bases de datos estructuradas en MySQL.
 - Diseño Modular:
     Código organizado en clases separadas para facilitar el mantenimiento y la escalabilidad.
+
+## Capturas
