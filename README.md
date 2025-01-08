@@ -17,3 +17,8 @@ Este proyecto es una aplicación Java que utiliza JDBC para conectarse a una bas
     Código organizado en clases separadas para facilitar el mantenimiento y la escalabilidad.
 
 ## Capturas
+<img width="1440" alt="Login" src="https://github.com/user-attachments/assets/1da20a5f-f020-4962-824e-e72d8ba97885" />
+
+<img width="1440" alt="Mensaje de bienvenida" src="https://github.com/user-attachments/assets/13eb2df8-7ef7-4de5-882c-e4bf37e786a2" />
+
+<img width="1440" alt="Datos en JTable" src="https://github.com/user-attachments/assets/e8009d36-dbed-4a51-8040-ed41761c4d2b" />
